@@ -1,5 +1,5 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Echo!;HTML+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
-<h1 align="center">Hi 👋, I'm 3kh0</h1>
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO 3kh0.github.io FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+Fnfgo!;FNF+Coder;JavaScript+Game+maker;Talk+to+me+on+my+discord!">
+<h1 align="center">Hi 👋, I'm Fnfgo</h1>
 <h3 align="center">A nice person who can code buggy projects.</h3>
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat">
        </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="3kh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3kh0&no-frame=trueno-bg=true" alt="Fnfgo" /></a> </p>
 
 - 🔭 I’m currently working on [my main website](https://github.com/3kh0/3kh0.github.io) and whatever else!
 
@@ -24,9 +24,9 @@
 
 - 👯 I’m looking to collaborate on anything intresting, hit me up at my [email](mailto:echo-the-coder@tuta.io)
 
-- 🤝 I’m looking for help with [my website](https://github.com/3kh0/3kh0.github.io/). Make a pull if you can!
+- 🤝 I’m looking for help with [my website](https://github.com/Fnfgo/Fnfgo.github.io/). Make a pull if you can!
 
-- 👨‍💻 All of my projects are available at [3kh0.github.io](https://3kh0.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
+- 👨‍💻 All of my projects are available at [3kh0.github.io](https://Fnfgo.github.io/) and my [repos tab](https://github.com/3kh0?tab=repositories).
 
 - 📫 You can ping me in [my epic discord server](https://discord.gg/wv6huJAwEv) or hit me up at my [email](mailto:echo-the-coder@tuta.io).
 
